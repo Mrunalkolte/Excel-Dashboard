@@ -41,6 +41,17 @@ The **Vrinda Store Sales and Orders Dashboard** offers a comprehensive view of s
   - Formulas for calculations and KPIs
 
 
+## Repository Structure
+
+This repository contains the following files:
+
+1. **Vrinda Stores Raw Data.xlsx**  
+   - Contains the original, unprocessed sales and order data.  
+   - Use this as the starting point for custom analysis or understanding the data structure.
+
+2. **Vrinda Store Data Analysis.xlsx**  
+   - Includes cleaned and processed data.  
+   - Features an interactive Excel dashboard with visualizations for sales and order performance.
 
 ## **How to Use**
 1. Download the Excel file from this repository.
